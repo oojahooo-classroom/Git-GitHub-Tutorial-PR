@@ -9,6 +9,7 @@ Fork는 아주 큰 협업 프로젝트에 기여할 수 있는 멋진 방법입�
 그렇다면 다음 커맨드를 입력하여 당신의 repo를 local repo로 복제해 오세요:
 ```
 git clone [your repo's link]
+cd [your repo's directory]
 ```
 
 ## Remote Me!
